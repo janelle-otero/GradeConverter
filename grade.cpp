@@ -2,15 +2,6 @@
 #include <iomanip>
 using namespace std;
 
-/* Name: Janelle Otero
-Date: 9/17/19
-Section: 10
-Assignment: Homework #2
-Due Date: 9/19/19
-About this project: With this project I will be able to calculate my final grade in the class and all of my averages in my homeworks, recitations, and tests.
-Assumptions: We assume that the user will always put an appropriate homework, recitation, and test grades.
-
-All work below was performed by Janelle Otero */
 
 int main() {
     // claiming int variables for homework, recitation, and test gradess
